@@ -330,6 +330,7 @@ footer .line-footer p a{
         gap: 40px;
     }
     
+
     section.topo-do-site{
         padding: 20px 8%;
     }
@@ -387,5 +388,6 @@ footer .line-footer p a{
     footer .line-footer{
         text-align: center;
     }
+    
 }
 
