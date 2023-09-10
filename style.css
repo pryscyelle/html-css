@@ -306,7 +306,6 @@ footer .line-footer p a{
     color: #fff;
 }
 
-
 @media screen and (max-width: 1020px){
     .flex{
         flex-direction: column;
@@ -321,7 +320,6 @@ footer .line-footer p a{
         line-height: 30px;
     }
 
-
     .menu-desktop, .btn-contato{
         display: none;
     }
@@ -329,7 +327,6 @@ footer .line-footer p a{
     section.topo-do-site .flex{
         gap: 40px;
     }
-    
 
     section.topo-do-site{
         padding: 20px 8%;
